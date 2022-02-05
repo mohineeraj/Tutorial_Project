@@ -1,0 +1,11 @@
+Project Name -Tutorial
+	In this project we are using django technology based on python. My project is work on MVT architecture.
+	when user created httprequest of '127.0.0.1:8000' first of all he is going to on home page home page is having 2 buttons 
+		1) Register- if you are a new user you need to create your account:
+		2)Login -if you are allready user or you are done registration you need to login.
+	here i am validating a user username and email id is not allow duplicate
+	after that you are successfully login then you are going to inside the tutorial project
+	in tutorial we have made 5 buttons tutorial home, Tutorial, aboutus, New tutorial and Logout
+	tutorial home Topic of tutorials when we click on the topic its show the body part
+	in this whole project we add tutorial read tutorial
+	basically in this project we are using authentication, redirect, Html, css and javascript, sql Database, class based views and function based views, static files.
